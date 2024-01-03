@@ -39,8 +39,7 @@ $ cargo install scare
 ```
 Alternatively, you can install ``scare`` directly from this repository by running
 ```bash
-$ git clone https://github.com/joaopugsley/scare
-$ cargo install --path ./scare
+$ cargo install --git https://github.com/joaopugsley/scare.git
 ```
 
 ⚠️ If you do not have **cargo**, install using [Rust's Installation Documentation](https://doc.rust-lang.org/book/ch01-01-installation.html)
