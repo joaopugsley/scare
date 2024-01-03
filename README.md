@@ -17,6 +17,18 @@ To get started with ``scare`` simply run
 $ scare
 ```
 
+### Keybinds
+- `C`: Create a new task
+- `D`: Enter edit mode
+- `Space`: Toggle task completion.
+* `W`: Navigate to the previous task
+* `Shift + W`: Navigate to the first task
+- `S`: Navigate to the previous task
+- `Shift + S`: Navigate to the last task
+* `R`: Remove the current task ``(if done)``
+* `Shift + R`: **Force** remove the current task
+- `A` or `Ctrl + C`: Quit the application
+
 ## Installation
 
 ### Via Cargo (src)
