@@ -1,0 +1,17 @@
+[package]
+name = "scare"
+version = "1.0.8"
+description = "Scare is a CLI to-do list manager that simplifies task management for efficient productivity in the terminal."
+license = "MIT"
+categories = ["command-line-utilities"]
+authors = ["joaopugsley <joaopugsleyy@gmail.com>"]
+repository = "https://github.com/joaopugsley/scare"
+homepage = "https://github.com/joaopugsley/scare"
+readme = "README.md"
+edition = "2021"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+console = "0.15.7"
