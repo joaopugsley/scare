@@ -1,6 +1,6 @@
 [package]
 name = "scare"
-version = "1.0.8"
+version = "1.1.0"
 description = "Scare is a CLI to-do list manager that simplifies task management for efficient productivity in the terminal."
 license = "MIT"
 categories = ["command-line-utilities"]
