@@ -36,7 +36,7 @@ pub fn main() {
                         'W' => current_index = 0,
                         'a' => {
                             clear();
-                            print!("Goodbye!");
+                            println!("Goodbye!");
                             break;
                         }
                         's' => current_index += 1,
